@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="50" height="225">
+    <rect x="1" width="48" height="95" rx="7" ry="7" style="fill:rgb(0,0,0);" />
+    <circle cx="11" cy="82" r="5" fill="red" />
+    <line x1="25" y1="95" x2="25" y2="225" style="stroke:rgb(156, 156, 156);stroke-width:4" />
+
+    <rect x="23" y="125" width="4" height="23" style="fill:rgb(256, 256, 256); stroke:rgb(82, 82, 82); stroke-width:0.2" />
+    <rect x="23" y="148" width="4" height="25" style="fill:rgb(256, 0, 0);  stroke:rgb(82, 82, 82); stroke-width:0.2" />
+    <rect x="23" y="171" width="4" height="23" style="fill:rgb(256, 256, 256);  stroke:rgb(82, 82, 82); stroke-width:0.2 "/>
+</svg>
